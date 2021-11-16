@@ -21,9 +21,9 @@ The details of each solution are described in the projects below.
 
 In this project, I analyzed over 20k houses in Seattle city. I Speculated which houses the company should buy, which were the best renovation upgrades to do and when to sell them.
 
-The business performance, in the best case scenario simulated, **would create a company's revenue of $ 25,817,485.25 and a Return Over Investiment (ROI) of 92%.**
+Based on the defined property purchase and sale strategies, the estimated total profit would be **$322,179,949.50**.
 
-I also created a web page with Streamlit. Which explain all hypotheses, business suggestions, business scenarios simulation and provides an interactive map to filter, by the user demands, what house to buy.
+i also created a online dashboard to vizualize the principal insights, facilitating data visualization and business decisions, and answer the business questions, estimating the profit that can be made.
 
 **Deploy: [Here](https://insights-house-rocket.herokuapp.com/)**
 
