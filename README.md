@@ -64,7 +64,7 @@ I also created a Telegram chatbot. Which return the expected, worst and best sal
       </td>
       <td width="25%" align="center">
         <span>Numpy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1920px-NumPy_logo_2020.svg">
       </td>
       <td width="25%" align="center">
         <span>scikit-learn</span><br><br>
