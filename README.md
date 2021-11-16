@@ -29,7 +29,7 @@ i also created a online dashboard to vizualize the principal insights, facilitat
 
 ### [Store Sales Prediction](https://github.com/Leonamrsm/Rossmann-Stores-Sales-Forecast)
 
-In this project, I developed a Machine Learning model able to predict 1115 stores sales for the next 6 week sales, **with an average 11% MAPE **. using XGBoost regressor, with informations over 1115 stores trough 942 days.
+In this project, I developed a Machine Learning model able to predict 1115 stores sales for the next 6 week sales, **with an average 11% MAPE**. using XGBoost regressor, with informations over 1115 stores trough 942 days.
 
 considering the model error, in the best scenario, **287,609,874.99** sales are forecast.
 
