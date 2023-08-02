@@ -1,11 +1,10 @@
 # Leonam Rezende
 <sub>*Data Scientist*</sub>
 
-I'm a control and automation engineer graduated from UFMG in 2017. I'm finishing up my Masters in Computational Intelligence, and since 2019 I'm immersing myself in data science and machine learning. I also have 4 years of professional experience as a Software Developer Analyst. 
+I have a Bachelor's Degree in Control and Automation Engineering from the Federal University of Minas Gerais. I also have a Master's degree in Electrical Engineering, in the area of Computational Intelligence, also from the Graduate Program in Electrical Engineering at UFMG.
 
-During my data science studies, I've been studying all stages of developing business models solutions. Starting by understanding the business problem until deploying the model solution using Clouds.
+During my data science studies, I've been studying all stages of developing business models solutions. Starting by understanding the business problem until deploying the model solution.
 
-I have already developed solutions for important business problems such as predict stores sales - by regression methods - and a deep exploratory analisys over housing market.
 
 The details of each solution are described in the projects below.
 
