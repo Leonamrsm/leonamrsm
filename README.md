@@ -3,6 +3,8 @@
 
 I have a Bachelor's Degree in Control and Automation Engineering from the Federal University of Minas Gerais. I also have a Master's degree in Electrical Engineering, in the area of Computational Intelligence, also from the Graduate Program in Electrical Engineering at UFMG.
 
+I have an interdisciplinary profile and I am interested in mathematics and statistics and computer science, which led me to the world of data science.
+
 During my data science studies, I've been studying all stages of developing business models solutions. Starting by understanding the business problem until deploying the model solution.
 
 
