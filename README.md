@@ -16,7 +16,12 @@ The details of each solution are described in the projects below.
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonamrsm@gmail.com)](mailto:meigaromlopes@gmail.com)
 
 
-## Data Science Projects:
+## Some Data Science Projects:
+
+### [Efficiency of Sound Wave Fire-Extinguishers](https://github.com/Leonamrsm/Efficiency-of-Sound-Wave-Fire-Extinguishers)
+
+
+
 
 ### [Risk-Analysis-in-Public-Transport](https://github.com/Leonamrsm/Risk-Analysis-in-Public-Transport)
 
