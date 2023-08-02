@@ -1,14 +1,11 @@
 # Leonam Rezende
 <sub>*Data Scientist*</sub>
 
-I have a Bachelor's Degree in Control and Automation Engineering from the Federal University of Minas Gerais. I also have a Master's degree in Electrical Engineering, in the area of Computational Intelligence, also from the Graduate Program in Electrical Engineering at UFMG.
+With an interdisciplinary background, my interests lie at the intersection of mathematics, statistics, and computer science, which naturally drew me towards the captivating realm of data science.
 
-I have an interdisciplinary profile and I am interested in mathematics and statistics and computer science, which led me to the world of data science.
+Throughout my journey in data science, I have been extensively exploring all facets of developing effective business solutions. My process begins by thoroughly understanding the underlying business problem and continues with the meticulous development of innovative model solutions, culminating in their successful deployment.
 
-During my data science studies, I've been studying all stages of developing business models solutions. Starting by understanding the business problem until deploying the model solution.
-
-
-The details of each solution are described in the projects below.
+I am really excited about the possibilities that data science offers and I look forward to contributing my skills and knowledge in different projects.
 
 
 **Contacts:**
