@@ -18,6 +18,15 @@ The details of each solution are described in the projects below.
 
 ## Data Science Projects:
 
+### [Risk-Analysis-in-Public-Transport]([https://github.com/Leonamrsm/Real_State_Insights](https://github.com/Leonamrsm/Risk-Analysis-in-Public-Transport))
+
+Which traffic incidents occur most frequently? What age group is most involved in traffic incidents? What is the most common event in incidents? Are passengers or pedestrians the main victims of incidents?
+
+These and other questions are the focus of analysis in this project, where we provide insights through the examination of publicly available real data. 
+
+Apache Spark was used to read and process data efficiently, simulating data processing in a distributed cluster of computers. Apache SQL was employed to manipulate and query the data for further analysis. In addition, the power of Python libraries such as pandas, seaborn, Plotly and Matplotlib were used to create informative and visually appealing graphs to visualize the findings.
+
+
 ### [Housing Market Speculation](https://github.com/Leonamrsm/Real_State_Insights)
 
 In this project, I analyzed over 20k houses in Seattle city. I Speculated which houses the company should buy, which were the best renovation upgrades to do and when to sell them.
