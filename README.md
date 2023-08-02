@@ -37,59 +37,6 @@ I also created a Telegram chatbot. Which return the expected, worst and best sal
 
 **Deploy: [Here](http://t.me/leonam_RossmanBot)**
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Python</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>My SQL</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Streamlit</span><br><br>
-        <img height="47px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ad27bcfbb9dff263a_RGB_Logo_Horizontal_Color_Light_Bg-p-1080.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Heroku</span><br><br>
-        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Pandas</span><br><br>
-        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Numpy</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1920px-NumPy_logo_2020.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span>scikit-learn</span><br><br>
-        <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
-      </td>
-      <td width="25%" align="center">
-        <span>statsmodels</span><br><br>
-        <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
-      </td>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Matplotlib</span><br><br>
-        <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Seaborn</span><br><br>
-        <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Flask</span><br><br>
-        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
-      </td>
-      <td width="25%" align="center">
-      </td>
-    </tr>    
   </tbody>
 </table>
 
