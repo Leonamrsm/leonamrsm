@@ -18,7 +18,7 @@ The details of each solution are described in the projects below.
 
 ## Data Science Projects:
 
-### [Risk-Analysis-in-Public-Transport](https://github.com/Leonamrsm/Real_State_Insights](https://github.com/Leonamrsm/Risk-Analysis-in-Public-Transport)
+### [Risk-Analysis-in-Public-Transport](https://github.com/Leonamrsm/Real_State_Insights)
 
 Which traffic incidents occur most frequently? What age group is most involved in traffic incidents? What is the most common event in incidents? Are passengers or pedestrians the main victims of incidents?
 
