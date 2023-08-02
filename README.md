@@ -40,7 +40,3 @@ I also created a Telegram chatbot. Which return the expected, worst and best sal
   </tbody>
 </table>
 
-
-# Visitors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leonamrsm.leonamrsm)
