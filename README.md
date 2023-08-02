@@ -25,7 +25,6 @@ Based on the defined property purchase and sale strategies, the estimated total 
 
 i also created a online dashboard to vizualize the principal insights, facilitating data visualization and business decisions, and answer the business questions, estimating the profit that can be made.
 
-**Deploy: [Here](https://insights-house-rocket.herokuapp.com/)**
 
 ### [Store Sales Prediction](https://github.com/Leonamrsm/Rossmann-Stores-Sales-Forecast)
 
@@ -35,7 +34,6 @@ considering the model error, in the best scenario, **287,609,874.99** sales are 
 
 I also created a Telegram chatbot. Which return the expected, worst and best sales scenarios daily sales evolution graphs, for each store in the next 6 weeks.
 
-**Deploy: [Here](http://t.me/leonam_RossmanBot)**
 
   </tbody>
 </table>
