@@ -20,7 +20,9 @@ The details of each solution are described in the projects below.
 
 ### [Efficiency of Sound Wave Fire-Extinguishers](https://github.com/Leonamrsm/Efficiency-of-Sound-Wave-Fire-Extinguishers)
 
+In this project several machine learning models were trained to classify when a fire extinguishing system using sound waves can extinguish the fire. A publicly available database was used, which provides the result of several experiments carried out with sound wave fire extinguishing systems. For this project, the R language and packages such as the Caret package and the tidyverse were used.
 
+After intense experiments and tests, we were able to obtain an exceptional result: the best trained model achieved an impressive accuracy of 96.6%. This result is highly promising and could have a significant impact on the safety and efficiency of fire extinguishing systems.
 
 
 ### [Risk-Analysis-in-Public-Transport](https://github.com/Leonamrsm/Risk-Analysis-in-Public-Transport)
