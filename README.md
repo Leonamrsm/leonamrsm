@@ -22,9 +22,11 @@ In this project several machine learning models were trained to classify when a 
 After intense experiments and tests, we were able to obtain an exceptional result: the best trained model achieved an impressive accuracy of 96.6%. This result is highly promising and could have a significant impact on the safety and efficiency of fire extinguishing systems.
 
 
-### [Forecasting-the-Energy-Consumption-of-Eletric-cars](https://github.com/Leonamrsm/Efficiency-of-Sound-Wave-Fire-Extinguishers)
+### [Forecasting-the-Energy-Consumption-of-Eletric-cars](https://github.com/Leonamrsm/Forecasting-the-Energy-Consumption-of-Eletric-cars)
 
-A transport and logistics company wants to migrate its fleet to electric cars in order to reduce costs. Before making the decision, the company would like to forecast the energy consumption of electric cars based on various usage factors and vehicle characteristics.
+I developed a project with the objective of building Machine Learning models to predict the energy consumption of electric cars. I used a real dataset, applying techniques such as Linear Regression, Random Forest, Decision Trees and SVM. The Linear Regression model with Ridge regularization showed the best performance in terms of prediction accuracy, measured by RMSE.
+
+The project was implemented using the R language and the caret and tidyverse libraries, allowing a comprehensive approach from data preparation to model evaluation. The choice of model was based on the RMSE, which highlights significant discrepancies between predictions and actual results.
 
 
 
