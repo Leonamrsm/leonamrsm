@@ -22,6 +22,8 @@ In this project several machine learning models were trained to classify when a 
 After intense experiments and tests, we were able to obtain an exceptional result: the best trained model achieved an impressive accuracy of 96.6%. This result is highly promising and could have a significant impact on the safety and efficiency of fire extinguishing systems.
 
 
+### [Forecasting-the-Energy-Consumption-of-Eletric-cars](https://github.com/Leonamrsm/Efficiency-of-Sound-Wave-Fire-Extinguishers)
+
 ### [Risk-Analysis-in-Public-Transport](https://github.com/Leonamrsm/Risk-Analysis-in-Public-Transport)
 
 Which traffic incidents occur most frequently? What age group is most involved in traffic incidents? What is the most common event in incidents? Are passengers or pedestrians the main victims of incidents?
