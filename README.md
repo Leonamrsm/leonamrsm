@@ -10,7 +10,7 @@ I am really excited about the possibilities that data science offers and I look 
 
 **Contacts:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonamrsm/)
-* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonamrsm@gmail.com)](mailto:meigaromlopes@gmail.com)
+* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonamrsm@gmail.com)](mailto:leonamrsm@gmail.com)
 
 
 ## Some Data Science Projects:
