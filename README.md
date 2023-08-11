@@ -31,14 +31,6 @@ These and other questions are the focus of analysis in this project, where we pr
 Apache Spark was used to read and process data efficiently, simulating data processing in a distributed cluster of computers. Apache SQL was employed to manipulate and query the data for further analysis. In addition, the power of Python libraries such as pandas, seaborn, Plotly and Matplotlib were used to create informative and visually appealing graphs to visualize the findings.
 
 
-### [Housing Market Speculation](https://github.com/Leonamrsm/Real_State_Insights)
-
-In this project, I analyzed over 20k houses in Seattle city. I Speculated which houses the company should buy, which were the best renovation upgrades to do and when to sell them.
-
-Based on the defined property purchase and sale strategies, the estimated total profit would be **$322,179,949.50**.
-
-i also created a online dashboard to vizualize the principal insights, facilitating data visualization and business decisions, and answer the business questions, estimating the profit that can be made.
-
 
 ### [Store Sales Prediction](https://github.com/Leonamrsm/Rossmann-Stores-Sales-Forecast)
 
