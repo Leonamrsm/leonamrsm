@@ -34,7 +34,7 @@ The project was implemented using the R language and the caret and tidyverse lib
 
 Which traffic incidents occur most frequently? What age group is most involved in traffic incidents? What is the most common event in incidents? Are passengers or pedestrians the main victims of incidents?
 
-These and other questions are the focus of analysis in this project, where we provide insights through the examination of publicly available real data. 
+These and other questions are the focus of analysis in this project, where it is provided insights through the examination of publicly available real data. 
 
 Apache Spark was used to read and process data efficiently, simulating data processing in a distributed cluster of computers. Apache SQL was employed to manipulate and query the data for further analysis. In addition, the power of Python libraries such as pandas, seaborn, Plotly and Matplotlib were used to create informative and visually appealing graphs to visualize the findings.
 
