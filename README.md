@@ -13,7 +13,7 @@
 
 Data Scientist with an interdisciplinary background in **engineering, mathematics, statistics, and computer science**. I develop data-driven solutions across the full machine learning lifecycle — from **problem formulation and exploratory analysis to model development, evaluation, and deployment**.
 
-- 🔭 Currently working on: Document Classification at Banco do Brasil
+- 🔭 Currently working on: A/B Testing portfolio project
 - 🌱 Currently studying: Data Science & Artificial Intelligence (Postgraduate, UNIPDS/Anhanguera)
 - 💬 Ask me about: Machine Learning, Statistical Modeling, Customer Analytics, MLOps
 
