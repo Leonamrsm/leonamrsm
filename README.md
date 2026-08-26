@@ -162,15 +162,6 @@ Research focused on computational intelligence and machine learning, including t
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonamrsm&show_icons=true&theme=default" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonamrsm&layout=compact" height="165" alt="Top Languages"/>
-</p>
-
----
-
 # 📫 Let's Connect
 
 I'm open to opportunities involving **Data Science, Machine Learning, Statistics, and MLOps**.
