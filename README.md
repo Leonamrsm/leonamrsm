@@ -36,7 +36,6 @@ My interests include **machine learning, statistical modeling, experimentation, 
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-EF3B2D?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
