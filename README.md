@@ -11,11 +11,11 @@
   </a>
 </p>
 
-Data Scientist with an interdisciplinary background in **engineering, mathematics, statistics, and computer science**.
+Data Scientist with an interdisciplinary background in **engineering, mathematics, statistics, and computer science**. I develop data-driven solutions across the full machine learning lifecycle — from **problem formulation and exploratory analysis to model development, evaluation, and deployment**.
 
-I have experience developing data-driven solutions across the full machine learning lifecycle, from **problem formulation and exploratory analysis to model development, evaluation, and deployment**.
-
-My interests include **machine learning, statistical modeling, experimentation, customer analytics, and MLOps**, with a focus on translating business problems into practical and measurable solutions.
+- 🔭 Currently working on: Document Classification at Banco do Brasil
+- 🌱 Currently studying: Data Science & Artificial Intelligence (Postgraduate, UNIPDS/Anhanguera)
+- 💬 Ask me about: Machine Learning, Statistical Modeling, Customer Analytics, MLOps
 
 ---
 
@@ -46,7 +46,7 @@ My interests include **machine learning, statistical modeling, experimentation, 
 
 Professional Data Science project focused on the automatic classification of legal documents at large scale.
 
-The solution processed **20M+ documents** and combined OCR, NLP, machine learning, and distributed data processing to classify documents into **21 categories**.
+The solution processed **20M+ documents**, combining OCR, NLP, machine learning, and distributed data processing to classify documents into **21 categories**.
 
 ### Highlights
 
@@ -101,7 +101,7 @@ Machine learning project developed to forecast sales for **1,115 stores over a s
 
 The project uses historical sales data covering **942 days** and applies machine learning techniques to generate store-level sales forecasts.
 
-### Results
+### Highlights
 
 - **1,115 stores**
 - **6-week forecasting horizon**
@@ -159,6 +159,15 @@ Research focused on computational intelligence and machine learning, including t
 ### B.Sc. in Control and Automation Engineering
 
 **Federal University of Minas Gerais (UFMG)**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonamrsm&show_icons=true&theme=default" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonamrsm&layout=compact" height="165" alt="Top Languages"/>
+</p>
 
 ---
 
