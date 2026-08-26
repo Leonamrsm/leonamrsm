@@ -143,11 +143,18 @@ The project evaluated several machine learning approaches and achieved a **96.6%
 
 # 🎓 Education
 
+### Postgraduate Program in Data Science & Artificial Intelligence
+
+**UNIPDS / Anhanguera**  
+**Sep 2026 – Present**
+
 ### M.Sc. in Electrical Engineering — Computational Intelligence
 
 **Federal University of Minas Gerais (UFMG)**
 
 Research focused on computational intelligence and machine learning, including the application of **Ordered Weighted Averaging (OWA) operators to Convolutional Neural Networks**.
+
+[**→ Master's research project**](https://github.com/Leonamrsm/Application_of_OWA_Operator_on_CNNs)
 
 ### B.Sc. in Control and Automation Engineering
 
