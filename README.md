@@ -1,54 +1,170 @@
 # Leonam Rezende
-<sub>*Data Scientist*</sub>
 
-With an interdisciplinary background, my interests lie at the intersection of mathematics, statistics, and computer science, which naturally drew me towards the captivating realm of data science.
+### Data Scientist | Machine Learning | Statistics
 
-Throughout my journey in data science, I have been extensively exploring all facets of developing effective business solutions. My process begins by thoroughly understanding the underlying business problem and continues with the meticulous development of innovative model solutions, culminating in their successful deployment.
+<p align="left">
+  <a href="https://www.linkedin.com/in/leonamrsm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:leonamrsm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-I am really excited about the possibilities that data science offers and I look forward to contributing my skills and knowledge in different projects.
+Data Scientist with an interdisciplinary background in **engineering, mathematics, statistics, and computer science**.
 
+I have experience developing data-driven solutions across the full machine learning lifecycle, from **problem formulation and exploratory analysis to model development, evaluation, and deployment**.
 
-**Contacts:**
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonamrsm/)
-* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonamrsm@gmail.com)](mailto:leonamrsm@gmail.com)
+My interests include **machine learning, statistical modeling, experimentation, customer analytics, and MLOps**, with a focus on translating business problems into practical and measurable solutions.
 
+---
 
-## Some Data Science Projects:
+## 🛠️ Technologies
 
-### [Efficiency of Sound Wave Fire-Extinguishers](https://github.com/Leonamrsm/Efficiency-of-Sound-Wave-Fire-Extinguishers)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,docker,aws,azure" height="45" alt="Python, R, Git, GitHub, Docker, AWS and Azure"/>
+</p>
 
-In this project several machine learning models were trained to classify when a fire extinguishing system using sound waves can extinguish the fire. A publicly available database was used, which provides the result of several experiments carried out with sound wave fire extinguishing systems. For this project, the R language and packages such as the Caret package and the tidyverse were used.
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3B2D?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
 
-After intense experiments and tests, we were able to obtain an exceptional result: the best trained model achieved an impressive accuracy of 96.6%. This result is highly promising and could have a significant impact on the safety and efficiency of fire extinguishing systems.
+---
 
+# 💼 Professional Experience
 
-### [Forecasting-the-Energy-Consumption-of-Eletric-cars](https://github.com/Leonamrsm/Forecasting-the-Energy-Consumption-of-Eletric-cars)
+## Document Classification — Banco do Brasil
 
-I developed a project with the objective of building Machine Learning models to predict the energy consumption of electric cars. I used a real dataset, applying techniques such as Linear Regression, Random Forest, Decision Trees and SVM. The Linear Regression model with Ridge regularization showed the best performance in terms of prediction accuracy, measured by RMSE.
+Professional Data Science project focused on the automatic classification of legal documents at large scale.
 
-The project was implemented using the R language and the caret and tidyverse libraries, allowing a comprehensive approach from data preparation to model evaluation. The choice of model was based on the RMSE, which highlights significant discrepancies between predictions and actual results.
+The solution processed **20M+ documents** and combined OCR, NLP, machine learning, and distributed data processing to classify documents into **21 categories**.
 
+### Highlights
 
+- Processed **20M+ documents**
+- **21 document classes**
+- **96% accuracy**
+- **F1 Macro > 90%**
+- Distributed processing with **PySpark and Spark ML**
+- OCR preprocessing and text extraction
+- **H2O AutoML** for model development
+- NLP and prompt engineering using **GPT-4**
+- Automated daily production pipeline
+- Periodic performance monitoring and retraining strategy
 
-### [Risk-Analysis-in-Public-Transport](https://github.com/Leonamrsm/Risk-Analysis-in-Public-Transport)
+**Technologies:** Python · PySpark · Spark ML · H2O AutoML · NLP · OCR · GPT-4
 
-Which traffic incidents occur most frequently? What age group is most involved in traffic incidents? What is the most common event in incidents? Are passengers or pedestrians the main victims of incidents?
+> Due to confidentiality restrictions, the source code and datasets are not publicly available.
 
-These and other questions are the focus of analysis in this project, where it is provided insights through the examination of publicly available real data. 
+---
 
-Apache Spark was used to read and process data efficiently, simulating data processing in a distributed cluster of computers. Apache SQL was employed to manipulate and query the data for further analysis. In addition, the power of Python libraries such as pandas, seaborn, Plotly and Matplotlib were used to create informative and visually appealing graphs to visualize the findings.
+# 📊 Data Science Projects
 
+## [Customer Segmentation & Loyalty Analytics](https://github.com/Leonamrsm/insiders_clustering)
 
+End-to-end **customer segmentation** project developed for an e-commerce loyalty program.
 
-### [Store Sales Prediction](https://github.com/Leonamrsm/Rossmann-Stores-Sales-Forecast)
+The objective was to identify distinct customer profiles based on purchasing behavior and create actionable customer segments for business strategies.
 
-In this project, I developed a Machine Learning model able to predict 1115 stores sales for the next 6 week sales, **with an average 11% MAPE**. using XGBoost regressor, with informations over 1115 stores trough 942 days.
+### Highlights
 
-considering the model error, in the best scenario, **287,609,874.99** sales are forecast.
+- Analyzed **540K+ transactions**
+- Developed behavioral and RFM-based features
+- Evaluated multiple data representations
+- Random Forest embeddings, PCA, UMAP and t-SNE
+- Compared **K-Means and DBSCAN**
+- Evaluated clustering quality using **Silhouette Score**
+- Business constraint of **10 final customer segments**
+- Automated pipeline using **Papermill**
+- Interactive analysis with **Streamlit**
+- Business dashboards with **Metabase**
+- Data and artifacts stored in **AWS S3**
 
-I also created a Telegram chatbot. Which return the expected, worst and best sales scenarios daily sales evolution graphs, for each store in the next 6 weeks.
+**Technologies:** Python · Pandas · Scikit-learn · UMAP · AWS S3 · Streamlit · Metabase
 
+[**→ View project**](https://github.com/Leonamrsm/insiders_clustering)
 
-  </tbody>
-</table>
+---
 
+## [Store Sales Prediction](https://github.com/Leonamrsm/Rossmann-Stores-Sales-Forecast)
+
+Machine learning project developed to forecast sales for **1,115 stores over a six-week horizon**.
+
+The project uses historical sales data covering **942 days** and applies machine learning techniques to generate store-level sales forecasts.
+
+### Results
+
+- **1,115 stores**
+- **6-week forecasting horizon**
+- **942 days of historical data**
+- Approximately **11% MAPE**
+- XGBoost regression model
+
+**Technologies:** Python · Pandas · Scikit-learn · XGBoost · Feature Engineering
+
+[**→ View project**](https://github.com/Leonamrsm/Rossmann-Stores-Sales-Forecast)
+
+---
+
+## [Forecasting Energy Consumption of Electric Cars](https://github.com/Leonamrsm/Forecasting-the-Energy-Consumption-of-Eletric-cars)
+
+Machine learning regression project focused on predicting the **energy consumption of electric vehicles**.
+
+Several regression algorithms were evaluated, including Linear Regression, Ridge Regression, Random Forest, Decision Trees and Support Vector Machines.
+
+Model selection was based on **RMSE**, comparing the predictive performance of the different approaches.
+
+**Technologies:** R · caret · tidyverse · Machine Learning · Regression
+
+[**→ View project**](https://github.com/Leonamrsm/Forecasting-the-Energy-Consumption-of-Eletric-cars)
+
+---
+
+## [Efficiency of Sound Wave Fire Extinguishers](https://github.com/Leonamrsm/Efficiency-of-Sound-Wave-Fire-Extinguishers)
+
+Machine learning classification project investigating whether sound waves can successfully extinguish fires under different experimental conditions.
+
+The project evaluated several machine learning approaches and achieved a **96.6% accuracy** with the best-performing model.
+
+**Technologies:** R · caret · tidyverse · Machine Learning · Classification
+
+[**→ View project**](https://github.com/Leonamrsm/Efficiency-of-Sound-Wave-Fire-Extinguishers)
+
+---
+
+# 🎓 Education
+
+### M.Sc. in Electrical Engineering — Computational Intelligence
+
+**Federal University of Minas Gerais (UFMG)**
+
+Research focused on computational intelligence and machine learning, including the application of **Ordered Weighted Averaging (OWA) operators to Convolutional Neural Networks**.
+
+### B.Sc. in Control and Automation Engineering
+
+**Federal University of Minas Gerais (UFMG)**
+
+---
+
+# 📫 Let's Connect
+
+I'm open to opportunities involving **Data Science, Machine Learning, Statistics, and MLOps**.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/leonamrsm/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:leonamrsm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
