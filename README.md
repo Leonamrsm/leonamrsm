@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Data Scientist with an interdisciplinary background in **engineering, mathematics, statistics, and computer science**. I develop data-driven solutions across the full machine learning lifecycle — from **problem formulation and exploratory analysis to model development, evaluation, and deployment**.
+Data Scientist with an interdisciplinary background in engineering, mathematics, statistics, and computer science, complemented by a Master's degree in Computational Intelligence from UFMG, with a focus on Deep Learning and Computer Vision. I develop data-driven solutions across the full machine learning lifecycle, from problem formulation and exploratory analysis to model development, evaluation, and deployment.
 
 - 🔭 Currently working on: A/B Testing portfolio project
 - 🌱 Currently studying: Data Science & Artificial Intelligence (Postgraduate, UNIPDS/Anhanguera)
